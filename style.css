@@ -57,3 +57,9 @@
   text-decoration: none;
   font-weight: bold;
 }
+
+.play-wrapper {
+  position: relative;
+  z-index: 10;
+  margin-bottom: 12px;
+}
